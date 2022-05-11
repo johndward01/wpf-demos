@@ -30,6 +30,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\
 C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\syncfusion.imageeditordemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\syncfusion.imageeditordemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\syncfusion.imageeditordemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\refint\syncfusion.imageeditordemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\syncfusion.imageeditordemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\obj_60\Debug\net6.0-windows\ref\syncfusion.imageeditordemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\imageeditor\bin\Debug\net6.0-windows\ref\syncfusion.imageeditordemos.wpf.dll

@@ -178,6 +178,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\syncfu
 C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\syncfusion.dociodemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\syncfusion.dociodemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\syncfusion.dociodemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\refint\syncfusion.dociodemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\syncfusion.dociodemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\docio\obj_60\Debug\net6.0-windows\ref\syncfusion.dociodemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\docio\bin\Debug\net6.0-windows\ref\syncfusion.dociodemos.wpf.dll

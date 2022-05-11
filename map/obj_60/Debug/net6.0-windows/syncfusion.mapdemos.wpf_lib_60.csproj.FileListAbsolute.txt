@@ -42,6 +42,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusi
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\refint\syncfusion.mapdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\ref\syncfusion.mapdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\map\bin\Debug\net6.0-windows\ref\syncfusion.mapdemos.wpf.dll

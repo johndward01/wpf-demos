@@ -17,6 +17,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\syncfusion.expenseanalysis.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\syncfusion.expenseanalysis.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\syncfusion.expenseanalysis.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\refint\syncfusion.expenseanalysis.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\syncfusion.expenseanalysis.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\ref\syncfusion.expenseanalysis.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\bin\Debug\net6.0-windows\ref\syncfusion.expenseanalysis.wpf.dll

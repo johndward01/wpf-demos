@@ -120,6 +120,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\sync
 C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\fr-FR\syncfusion.diagramdemos.wpf.resources.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\refint\syncfusion.diagramdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\syncfusion.diagramdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\obj_60\Debug\net6.0-windows\ref\syncfusion.diagramdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\diagram\bin\Debug\net6.0-windows\ref\syncfusion.diagramdemos.wpf.dll

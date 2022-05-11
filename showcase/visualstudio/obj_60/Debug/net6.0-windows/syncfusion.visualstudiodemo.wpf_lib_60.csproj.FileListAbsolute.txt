@@ -39,6 +39,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\syncfusion.visualstudiodemo.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\syncfusion.visualstudiodemo.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\syncfusion.visualstudiodemo.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\refint\syncfusion.visualstudiodemo.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\syncfusion.visualstudiodemo.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\obj_60\Debug\net6.0-windows\ref\syncfusion.visualstudiodemo.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\visualstudio\bin\Debug\net6.0-windows\ref\syncfusion.visualstudiodemo.wpf.dll

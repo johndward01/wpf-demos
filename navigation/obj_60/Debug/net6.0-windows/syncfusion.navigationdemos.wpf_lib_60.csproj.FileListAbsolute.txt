@@ -116,6 +116,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\s
 C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\refint\syncfusion.navigationdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\obj_60\Debug\net6.0-windows\ref\syncfusion.navigationdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\navigation\bin\Debug\net6.0-windows\ref\syncfusion.navigationdemos.wpf.dll

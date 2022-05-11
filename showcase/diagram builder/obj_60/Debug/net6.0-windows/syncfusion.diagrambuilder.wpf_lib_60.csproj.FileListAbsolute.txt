@@ -28,6 +28,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\ne
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\refint\syncfusion.diagrambuilder.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\syncfusion.diagrambuilder.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\obj_60\Debug\net6.0-windows\ref\syncfusion.diagrambuilder.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\diagram builder\bin\Debug\net6.0-windows\ref\syncfusion.diagrambuilder.wpf.dll

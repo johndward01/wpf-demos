@@ -28,6 +28,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows
 C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\syncfusion.surfacechartdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\syncfusion.surfacechartdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\syncfusion.surfacechartdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\refint\syncfusion.surfacechartdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\syncfusion.surfacechartdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\obj_60\Debug\net6.0-windows\ref\syncfusion.surfacechartdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\surfacechart\bin\Debug\net6.0-windows\ref\syncfusion.surfacechartdemos.wpf.dll

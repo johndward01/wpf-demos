@@ -13,7 +13,7 @@ TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
 25-58948494
 
 53-759974249
-233179333398
+233121768503
 Views\Appearance\CellStyleDemo.xaml;Views\Appearance\ConditionalFormatting.xaml;Views\Appearance\FrozenColumnsDemo.xaml;Views\Appearance\LevelStylingDemo.xaml;Views\Column\CellMerging.xaml;Views\Column\ColumnSizerDemo.xaml;Views\Column\StackedHeaderDemo.xaml;Views\Data Validation\DataValidationDemo.xaml;Views\Editing and Selection\EditingDemo.xaml;Views\Editing and Selection\SelectionDemo.xaml;Views\Exporting\ExcelExportingDemo.xaml;Views\Exporting\PDFExportingDemo.xaml;Views\Filtering\ExcelLikeFilteringDemo.xaml;Views\Filtering\FilteringDemo.xaml;Views\Getting Started\NestedCollection.xaml;Views\Getting Started\OnDemandLoading.xaml;Views\Getting Started\SelfRelationalDataBinding.xaml;Views\Interactive Features\ContextMenuDemo.xaml;Views\Interactive Features\DragAndDropDemo.xaml;Views\Node CheckBox\CheckBoxSelection.xaml;Views\Node CheckBox\ConditionalCheckBox.xaml;Views\Printing\PrintingDemo.xaml;Views\Show Case Demo\FileExplorer.xaml;Views\Sorting\CustomSorting.xaml;Views\Sorting\Sorting.xaml;
 
 True

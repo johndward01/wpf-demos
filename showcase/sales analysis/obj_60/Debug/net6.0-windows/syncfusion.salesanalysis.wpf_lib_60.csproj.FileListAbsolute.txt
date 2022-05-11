@@ -19,6 +19,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\refint\syncfusion.salesanalysis.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\syncfusion.salesanalysis.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\obj_60\Debug\net6.0-windows\ref\syncfusion.salesanalysis.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\sales analysis\bin\Debug\net6.0-windows\ref\syncfusion.salesanalysis.wpf.dll

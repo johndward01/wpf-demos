@@ -232,6 +232,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfu
 C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\refint\syncfusion.chartdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\chart\obj_60\Debug\net6.0-windows\ref\syncfusion.chartdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\chart\bin\Debug\net6.0-windows\ref\syncfusion.chartdemos.wpf.dll

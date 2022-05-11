@@ -26,6 +26,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows
 C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\syncfusion.spellcheckerdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\syncfusion.spellcheckerdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\syncfusion.spellcheckerdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\refint\syncfusion.spellcheckerdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\syncfusion.spellcheckerdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\obj_60\Debug\net6.0-windows\ref\syncfusion.spellcheckerdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\spellchecker\bin\Debug\net6.0-windows\ref\syncfusion.spellcheckerdemos.wpf.dll

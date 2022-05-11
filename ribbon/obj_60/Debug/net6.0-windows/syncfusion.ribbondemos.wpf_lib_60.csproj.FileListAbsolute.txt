@@ -60,6 +60,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncf
 C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\refint\syncfusion.ribbondemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\syncfusion.ribbondemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\obj_60\Debug\net6.0-windows\ref\syncfusion.ribbondemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\ribbon\bin\Debug\net6.0-windows\ref\syncfusion.ribbondemos.wpf.dll

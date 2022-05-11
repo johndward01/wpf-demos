@@ -30,6 +30,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncf
 C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\refint\syncfusion.kanbandemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\syncfusion.kanbandemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\obj_60\Debug\net6.0-windows\ref\syncfusion.kanbandemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\kanban\bin\Debug\net6.0-windows\ref\syncfusion.kanbandemos.wpf.dll

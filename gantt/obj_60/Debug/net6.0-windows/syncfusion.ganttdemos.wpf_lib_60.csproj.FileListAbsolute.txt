@@ -85,6 +85,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfu
 C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf_lib_60.csproj.CopyComplete
 C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\refint\syncfusion.ganttdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\syncfusion.ganttdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\obj_60\Debug\net6.0-windows\ref\syncfusion.ganttdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gantt\bin\Debug\net6.0-windows\ref\syncfusion.ganttdemos.wpf.dll

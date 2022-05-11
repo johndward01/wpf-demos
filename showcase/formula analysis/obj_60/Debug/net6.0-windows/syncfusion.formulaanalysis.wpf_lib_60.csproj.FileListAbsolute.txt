@@ -14,6 +14,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\n
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\syncfusion.formulaanalysis.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\syncfusion.formulaanalysis.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\syncfusion.formulaanalysis.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\refint\syncfusion.formulaanalysis.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\syncfusion.formulaanalysis.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\obj_60\Debug\net6.0-windows\ref\syncfusion.formulaanalysis.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\formula analysis\bin\Debug\net6.0-windows\ref\syncfusion.formulaanalysis.wpf.dll

@@ -17,6 +17,6 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf_lib_60.csproj.CoreCompileInputs.cache
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\refint\syncfusion.succinctlyseries.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\syncfusion.succinctlyseries.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\obj_60\Debug\net6.0-windows\ref\syncfusion.succinctlyseries.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\succinctly series\bin\Debug\net6.0-windows\ref\syncfusion.succinctlyseries.wpf.dll
