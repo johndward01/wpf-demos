@@ -13,7 +13,7 @@ TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
 102009112950
 
 21-2027089694
-216-80898079
+216-23333184
 BPMN\BPMNStencil.xaml;FlowChart\FlowStencil.xaml;FlowChart\QuickCommandTemplate.xaml;FlowChart\ShapePanel.xaml;LogicCircuit\LogicalCircuitStencil.xaml;LogicCircuit\LogicCircuitResources.xaml;Network\NetworkDiagramResources.xaml;Network\NetworkStencil.xaml;View\BlankStencil.xaml;View\MainWindow.xaml;
 
 True

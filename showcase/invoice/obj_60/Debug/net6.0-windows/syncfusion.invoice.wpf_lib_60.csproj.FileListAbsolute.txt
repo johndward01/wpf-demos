@@ -37,4 +37,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-win
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\syncfusion.invoice.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\ref\syncfusion.invoice.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\bin\Debug\net6.0-windows\ref\syncfusion.invoice.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\invoice\obj_60\Debug\net6.0-windows\refint\syncfusion.invoice.wpf.dll

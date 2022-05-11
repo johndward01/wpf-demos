@@ -15,4 +15,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\ref\syncfusion.powerpointviewer.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\bin\Debug\net6.0-windows\ref\syncfusion.powerpointviewer.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\refint\syncfusion.powerpointviewer.wpf.dll

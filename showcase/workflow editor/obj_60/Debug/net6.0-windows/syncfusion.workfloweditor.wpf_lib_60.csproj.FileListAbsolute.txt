@@ -27,4 +27,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\obj_60\Debug\ne
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\syncfusion.workfloweditor.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\syncfusion.workfloweditor.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\ref\syncfusion.workfloweditor.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\bin\Debug\net6.0-windows\ref\syncfusion.workfloweditor.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\workflow editor\obj_60\Debug\net6.0-windows\refint\syncfusion.workfloweditor.wpf.dll

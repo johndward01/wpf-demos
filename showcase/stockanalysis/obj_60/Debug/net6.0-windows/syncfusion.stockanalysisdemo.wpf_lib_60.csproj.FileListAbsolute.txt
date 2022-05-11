@@ -25,4 +25,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\syncfusion.stockanalysisdemo.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\syncfusion.stockanalysisdemo.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\ref\syncfusion.stockanalysisdemo.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\bin\Debug\net6.0-windows\ref\syncfusion.stockanalysisdemo.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\stockanalysis\obj_60\Debug\net6.0-windows\refint\syncfusion.stockanalysisdemo.wpf.dll

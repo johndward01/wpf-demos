@@ -44,4 +44,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusi
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\syncfusion.mapdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\ref\syncfusion.mapdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\map\bin\Debug\net6.0-windows\ref\syncfusion.mapdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\map\obj_60\Debug\net6.0-windows\refint\syncfusion.mapdemos.wpf.dll

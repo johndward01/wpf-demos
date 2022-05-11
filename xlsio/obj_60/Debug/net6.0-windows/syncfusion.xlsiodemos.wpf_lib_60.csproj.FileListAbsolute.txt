@@ -245,4 +245,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\obj_60\Debug\net6.0-windows\syncfu
 C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\obj_60\Debug\net6.0-windows\syncfusion.xlsiodemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\obj_60\Debug\net6.0-windows\syncfusion.xlsiodemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\obj_60\Debug\net6.0-windows\ref\syncfusion.xlsiodemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\bin\Debug\net6.0-windows\ref\syncfusion.xlsiodemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\xlsio\obj_60\Debug\net6.0-windows\refint\syncfusion.xlsiodemos.wpf.dll

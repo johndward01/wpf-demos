@@ -41,4 +41,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\common\obj_60\Debug\net6.0-windows\syncf
 C:\Users\johnd\Desktop\repos3\wpf-demos\common\obj_60\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\common\obj_60\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\common\obj_60\Debug\net6.0-windows\ref\syncfusion.demoscommon.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\common\bin\Debug\net6.0-windows\ref\syncfusion.demoscommon.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\common\obj_60\Debug\net6.0-windows\refint\syncfusion.demoscommon.wpf.dll

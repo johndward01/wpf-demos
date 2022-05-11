@@ -62,4 +62,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows
 C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\ref\syncfusion.propertygriddemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\bin\Debug\net6.0-windows\ref\syncfusion.propertygriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\propertygrid\obj_60\Debug\net6.0-windows\refint\syncfusion.propertygriddemos.wpf.dll

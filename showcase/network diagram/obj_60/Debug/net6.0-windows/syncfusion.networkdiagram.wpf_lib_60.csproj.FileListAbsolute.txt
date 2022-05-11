@@ -18,4 +18,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\obj_60\Debug\ne
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\syncfusion.networkdiagram.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\syncfusion.networkdiagram.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\ref\syncfusion.networkdiagram.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\bin\Debug\net6.0-windows\ref\syncfusion.networkdiagram.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\network diagram\obj_60\Debug\net6.0-windows\refint\syncfusion.networkdiagram.wpf.dll

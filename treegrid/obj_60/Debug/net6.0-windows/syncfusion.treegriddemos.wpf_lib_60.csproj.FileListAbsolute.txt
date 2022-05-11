@@ -76,4 +76,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syn
 C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\ref\syncfusion.treegriddemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\ref\syncfusion.treegriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\refint\syncfusion.treegriddemos.wpf.dll

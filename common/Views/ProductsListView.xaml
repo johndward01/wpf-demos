@@ -54,6 +54,7 @@
                 Orientation="Horizontal">
                 <TextBlock
                     VerticalAlignment="Bottom"
+                    Foreground="#fff"
                     FontFamily="SegoeUI-Semibold"
                     FontSize="18"
                     FontWeight="Medium"
@@ -260,6 +261,7 @@
                     Orientation="Horizontal">
                     <TextBlock
                         HorizontalAlignment="Left"
+                        Foreground="#fff"
                         FontFamily="SegoeUI-Semibold"
                         FontSize="18"
                         FontWeight="Medium"
@@ -354,6 +356,7 @@
                                 <DataTemplate>
                                     <TextBlock
                                         Margin="10,16,12,8"
+                                        Foreground="#fff"
                                         FontFamily="SegoeUI-Semibold"
                                         FontSize="13"
                                         FontWeight="Medium"

@@ -169,4 +169,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syn
 C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syncfusion.datagriddemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\syncfusion.datagriddemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\ref\syncfusion.datagriddemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\bin\Debug\net6.0-windows\ref\syncfusion.datagriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\datagrid\obj_60\Debug\net6.0-windows\refint\syncfusion.datagriddemos.wpf.dll

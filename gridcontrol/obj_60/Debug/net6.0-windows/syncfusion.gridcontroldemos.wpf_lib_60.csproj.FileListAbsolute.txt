@@ -151,4 +151,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\
 C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ref\syncfusion.gridcontroldemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\ref\syncfusion.gridcontroldemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\refint\syncfusion.gridcontroldemos.wpf.dll

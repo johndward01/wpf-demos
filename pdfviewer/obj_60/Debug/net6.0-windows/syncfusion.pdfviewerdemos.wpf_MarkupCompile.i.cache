@@ -13,7 +13,7 @@ TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
 161316567134
 
 35-1264164914
-227-1339532186
+227-1281967291
 Views\BookmarkNavigation.xaml;Views\CustomToolbar.xaml;Views\DocumentToolbar.xaml;Views\ExportasImage.xaml;Views\FormFilling.xaml;Views\FreeText.xaml;Views\InkSignature.xaml;Views\Layers.xaml;Views\MultiTabbedViewer.xaml;Views\PdfViewerGettingStarted.xaml;Views\Redaction.xaml;Views\Shapes.xaml;Views\SilentPrinting.xaml;Views\StickyNote.xaml;Views\TextMarkups.xaml;Views\ThumbnailNavigation.xaml;
 
 True

@@ -41,4 +41,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\De
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\ref\syncfusion.brainstormingdiagram.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\ref\syncfusion.brainstormingdiagram.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\refint\syncfusion.brainstormingdiagram.wpf.dll

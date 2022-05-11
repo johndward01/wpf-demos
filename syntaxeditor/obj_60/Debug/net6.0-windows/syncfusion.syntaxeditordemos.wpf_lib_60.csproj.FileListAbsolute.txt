@@ -70,4 +70,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\obj_60\Debug\net6.0-windows
 C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\obj_60\Debug\net6.0-windows\syncfusion.syntaxeditordemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\obj_60\Debug\net6.0-windows\syncfusion.syntaxeditordemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\obj_60\Debug\net6.0-windows\ref\syncfusion.syntaxeditordemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\bin\Debug\net6.0-windows\ref\syncfusion.syntaxeditordemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\syntaxeditor\obj_60\Debug\net6.0-windows\refint\syncfusion.syntaxeditordemos.wpf.dll

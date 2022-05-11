@@ -17,4 +17,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\obj_60\Debug\net
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\obj_60\Debug\net6.0-windows\syncfusion.documenteditor.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\obj_60\Debug\net6.0-windows\syncfusion.documenteditor.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\obj_60\Debug\net6.0-windows\ref\syncfusion.documenteditor.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\bin\Debug\net6.0-windows\ref\syncfusion.documenteditor.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\documenteditor\obj_60\Debug\net6.0-windows\refint\syncfusion.documenteditor.wpf.dll

@@ -34,4 +34,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\obj_60\Debug\net6.0-windows\sync
 C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\obj_60\Debug\net6.0-windows\syncfusion.treemapdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\obj_60\Debug\net6.0-windows\syncfusion.treemapdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\obj_60\Debug\net6.0-windows\ref\syncfusion.treemapdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\bin\Debug\net6.0-windows\ref\syncfusion.treemapdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treemap\obj_60\Debug\net6.0-windows\refint\syncfusion.treemapdemos.wpf.dll

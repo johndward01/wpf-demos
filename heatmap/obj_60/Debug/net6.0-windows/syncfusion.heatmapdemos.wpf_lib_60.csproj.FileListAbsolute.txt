@@ -34,4 +34,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\obj_60\Debug\net6.0-windows\sync
 C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\obj_60\Debug\net6.0-windows\syncfusion.heatmapdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\obj_60\Debug\net6.0-windows\syncfusion.heatmapdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\obj_60\Debug\net6.0-windows\ref\syncfusion.heatmapdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\bin\Debug\net6.0-windows\ref\syncfusion.heatmapdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\heatmap\obj_60\Debug\net6.0-windows\refint\syncfusion.heatmapdemos.wpf.dll

@@ -61,4 +61,4 @@ C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\obj_60\Debug\net6.0-windows\sy
 C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\obj_60\Debug\net6.0-windows\syncfusion.schedulerdemos.wpf.dll
 C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\obj_60\Debug\net6.0-windows\syncfusion.schedulerdemos.wpf.pdb
 C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\obj_60\Debug\net6.0-windows\ref\syncfusion.schedulerdemos.wpf.dll
-C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\bin\Debug\net6.0-windows\ref\syncfusion.schedulerdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\scheduler\obj_60\Debug\net6.0-windows\refint\syncfusion.schedulerdemos.wpf.dll
