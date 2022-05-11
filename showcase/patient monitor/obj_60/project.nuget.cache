@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFZRzYAOvK1PcVATTrO7WFIdB/BPwS48wrBYvpkE+jEYRS8vawksIDQYmJE8ONenPk0Y2aoSMZL6GdDR06Q0WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\patient monitor\\syncfusion.patientmonitor.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.data.wpf\\20.1.0.47\\syncfusion.data.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfgrid.wpf\\20.1.0.47\\syncfusion.sfgrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfshared.wpf\\20.1.0.47\\syncfusion.sfshared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\20.1.0.47\\syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

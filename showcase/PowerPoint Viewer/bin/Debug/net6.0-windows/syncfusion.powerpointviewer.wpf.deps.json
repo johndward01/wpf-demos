@@ -1,0 +1,195 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.powerpointviewer.wpf/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.OfficeChart.Base": "20.1.0.47",
+          "Syncfusion.Pdf.Wpf": "20.1.0.47",
+          "Syncfusion.Presentation.Wpf": "20.1.0.47",
+          "Syncfusion.PresentationToPdfConverter.Wpf": "20.1.0.47",
+          "Syncfusion.SfChromelessWindow.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Tools.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.powerpointviewer.wpf.dll": {}
+        }
+      },
+      "Syncfusion.Compression.Base/20.1.0.47": {
+        "runtime": {
+          "lib/net5.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.OfficeChart.Base/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0/Syncfusion.OfficeChart.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Wpf/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Presentation.Wpf/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.OfficeChart.Base": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Presentation.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.PresentationToPdfConverter.Wpf/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Pdf.Wpf": "20.1.0.47",
+          "Syncfusion.Presentation.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.PresentationToPdfConverter.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfChromelessWindow.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.powerpointviewer.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Compression.Base/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4+GvSxEhzcBrhb1EcLTrI8cARVaYvMDeFRIZxy6cqkfXW2ZE6hP5GDCud95CUMGiNG+jGC2x9fvsq4lw/Ablpw==",
+      "path": "syncfusion.compression.base/20.1.0.47",
+      "hashPath": "syncfusion.compression.base.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.OfficeChart.Base/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3B9/Aq0ALJda4QBnDYitZFeo7RvX6rLyytB2bmGt5tVCjus6eNpU0gW9RJGB/Na2fdZO+OyKKhcqk9bJ4F1dog==",
+      "path": "syncfusion.officechart.base/20.1.0.47",
+      "hashPath": "syncfusion.officechart.base.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Wpf/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-llNyVjjaGx05hCLoND+yd1pXZPHqfHAqEP5ZbNq6He+c3PH0awhydrXFLo7Nt0cWulv8HaQtZZ+DGebZakM7cw==",
+      "path": "syncfusion.pdf.wpf/20.1.0.47",
+      "hashPath": "syncfusion.pdf.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Presentation.Wpf/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+FHJ1wuROKL/1LX2wJtr3qwvNKyP2mdUI6ylUZkadEO5zSFODEKpZPX0RScO6UrOqmu6v3XEiDyOk2i0Z/ky/Q==",
+      "path": "syncfusion.presentation.wpf/20.1.0.47",
+      "hashPath": "syncfusion.presentation.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.PresentationToPdfConverter.Wpf/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dDNanzJGH3kXpkdrGeBVPk0FtJMs1ZD99ubVbIzlGLzNO80R0RthMSeTVizwucTUmecQq5aIHAL9UZbacp+dig==",
+      "path": "syncfusion.presentationtopdfconverter.wpf/20.1.0.47",
+      "hashPath": "syncfusion.presentationtopdfconverter.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfChromelessWindow.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fEUCSirr+J/wXmR6zT5BKuBQcPJmhQmT0YrflIlr69TKnHz53I+Ng2wicXjiWALCdUmhm8zEbdNBOXdTNMpjrQ==",
+      "path": "syncfusion.sfchromelesswindow.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfchromelesswindow.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Tools.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O4ssjQdCO9R0QOaPoidrL4tgCAn0Pxq8HlEgQftCKTNub0x/qNGOsGRulvpnJAt5iHrGMdOeOKY0trYwXs+Jaw==",
+      "path": "syncfusion.tools.wpf/20.1.0.47",
+      "hashPath": "syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+    }
+  }
+}

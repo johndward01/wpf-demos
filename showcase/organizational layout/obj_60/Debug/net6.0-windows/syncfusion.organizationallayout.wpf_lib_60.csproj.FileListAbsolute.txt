@@ -1,0 +1,38 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\bin\Debug\net6.0-windows\Data\Diagram\ORG Chart Demo.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\bin\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\bin\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\bin\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Template\organizationallayoutDictionary.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateNewWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\MenuBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\OrganizationalLayoutdemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Properties.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\RecentFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Search Window.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\StatusBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\TemplateFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\ZoomPanWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\CreateNewWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\MenuBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\OrganizationalLayoutdemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Properties.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\RecentFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\Search Window.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\StatusBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\TemplateFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\Views\ZoomPanWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\refint\syncfusion.organizationallayout.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\syncfusion.organizationallayout.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\organizational layout\obj_60\Debug\net6.0-windows\ref\syncfusion.organizationallayout.wpf.dll

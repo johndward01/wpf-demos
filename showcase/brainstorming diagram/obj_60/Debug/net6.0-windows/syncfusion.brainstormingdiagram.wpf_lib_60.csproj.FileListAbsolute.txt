@@ -1,0 +1,44 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\Data\Diagram\Business Planning.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\Data\Diagram\Quality Management.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\Data\Diagram\Software Life Cycle.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\bin\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\BrainstormingDiagramDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateNewWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\DiagramStyleWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MenuBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MessageBoxWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MultipleSubTopicWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\RecentFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\StatusBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TemplateFileButton.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TopicChangeWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\ZoomPanWindow.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\BrainstormingDiagramDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\CreateNewWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\DiagramStyleWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MenuBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MessageBoxWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\MultipleSubTopicWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\RecentFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\StatusBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TemplateFileButton.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\TopicChangeWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\View\ZoomPanWindow.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\refint\syncfusion.brainstormingdiagram.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\syncfusion.brainstormingdiagram.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\ref\syncfusion.brainstormingdiagram.wpf.dll

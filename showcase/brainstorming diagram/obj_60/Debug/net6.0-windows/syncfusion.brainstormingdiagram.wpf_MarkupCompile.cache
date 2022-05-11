@@ -1,0 +1,20 @@
+﻿syncfusion.brainstormingdiagram.wpf
+
+
+library
+C#
+.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\brainstorming diagram\obj_60\Debug\net6.0-windows\
+syncfusion.brainstormingdiagram.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+13-1196955892
+
+361467419457
+214-779903251
+Themes\Generic.xaml;View\BrainstormingDiagramDemo.xaml;View\CreateFileButton.xaml;View\CreateNewWindow.xaml;View\DiagramStyleWindow.xaml;View\MenuBar.xaml;View\MessageBoxWindow.xaml;View\MultipleSubTopicWindow.xaml;View\RecentFileButton.xaml;View\StatusBar.xaml;View\TemplateFileButton.xaml;View\TopicChangeWindow.xaml;View\ZoomPanWindow.xaml;
+
+False
+

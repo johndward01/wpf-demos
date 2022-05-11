@@ -1,0 +1,154 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\Accounts.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\Customers.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\Employees.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\good.tsv
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\GraphicCellSample.xlsx
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\HoldingsData.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\Sample.xlsx
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\Orders.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Data\GridControl\AmericanFundsPerf.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CellStyle\View\CellStyle.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CommentService\View\CommentService.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CoveredCell\View\CoveredCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\GridProperties\View\GridProperties.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\GridStyleInfoAtWork\View\GridStyleInfoAtWork.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\TextFormat\View\TextFormat.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\BasicCellType\View\BasicCellType.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\ComboBoxCell\View\ComboBoxCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CurrencyCell\CurrencyCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CustomDataTemplateCell\View\CustomDataTemplateCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DataTemplateCell\View\DataTemplateCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DateTimeCell\View\DateTimeCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DoubleEditCell\View\DoubleEditCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeView.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\IntegerEditCell\View\IntegerEditCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\MaskEditCell\View\MaskEditCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\NestedGrid\Themes\Resources.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\PercentEditCell\PercentEditCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\RichTextBoxCell\View\RichTextBoxCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\UpdownCell\View\UpDownCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Data\GridControl\Finance.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\DragAndDrop\view\ExcelLikeDragandDrop.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FillSelection\View\ExcelLikeFillSelection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FloatingCells\View\FloatingCells.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FreezePane\View\FreezePane.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\HideRowColumnResizing\View\HiddenRowColumnResizing.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\InputMessage\InputMessage.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\SortColumn\View\SortColumn.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\UndoRedo\View\UndoRedo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\CSVExport\View\CSVExport.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\ExcelExport\View\ExcelExport.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\PdfExport\View\PdfExport.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Formula Support\FormulaRangeSelection\View\FormulaRangeSelection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Formula Support\FormulaTestValues\View\FormulaTestValues.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\BorderPaddingCell\View\BorderPaddingCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\DragAndDrop\view\DragandDrop.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\HideOrShowColumn\View\HideorShowColumn.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\ResizeToFit\View\ResizeToFit.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Virtualization\VirtualCell\View\VirtualCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Scrolling\DeferredScrolling\View\DeferredScrolling.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\CopyToClipboard\View\CopyToClipboard.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\ExcelLikeSelection\View\ExcelLikeSelection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\GridControlSelection\View\GridControlSelection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Serialization\GridSerialization\View\GridSerialization.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CellStyle\View\CellStyle.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CommentService\View\CommentService.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\CoveredCell\View\CoveredCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\GridProperties\View\GridProperties.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\GridStyleInfoAtWork\View\GridStyleInfoAtWork.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\TextFormat\View\TextFormat.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\Tooltip\View\Tooltip.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\AdvancedDataTemplateCell\View\AdvancedDataTemplateCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\BasicCellType\View\BasicCellType.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\ComboBoxCell\View\ComboBoxCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CurrencyCell\CurrencyCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CustomDataTemplateCell\View\CustomDataTemplateCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CustomDropDown\View\CustomDropDown.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DataTemplateCell\View\DataTemplateCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DateTimeCell\View\DateTimeCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\DoubleEditCell\View\DoubleEditCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeChart.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeView.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\IntegerEditCell\View\IntegerEditCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\MaskEditCell\View\MaskEditCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\NestedGrid\View\NestedGrid.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\PercentEditCell\PercentEditCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\RichTextBoxCell\View\RichTextBoxCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\TextImageCell\TextImageCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\UpdownCell\View\UpDownCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\DragAndDrop\view\ExcelLikeDragandDrop.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FillSelection\View\ExcelLikeFillSelection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FloatingCells\View\FloatingCells.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FreezePane\View\FreezePane.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\HideRowColumnResizing\View\HiddenRowColumnResizing.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\InputMessage\InputMessage.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\SelectionMarker\View\SelectionMarker.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\SortColumn\View\SortColumn.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\UndoRedo\View\UndoRedo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\CSVExport\View\CSVExport.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\ExcelExport\View\ExcelExport.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Export\PdfExport\View\PdfExport.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Formula Support\FormulaRangeSelection\View\FormulaRangeSelection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Formula Support\FormulaTestValues\View\FormulaTestValues.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\BorderPaddingCell\View\BorderPaddingCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\DragAndDrop\view\DragandDrop.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\HideOrShowColumn\View\HideorShowColumn.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Layout\ResizeToFit\View\ResizeToFit.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Virtualization\VirtualCell\View\VirtualCell.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Virtualization\VirtualGrid\View\VirtualGrid.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Import\ExcelImport\View\ExcelImport.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Performance\ScrollPerformance\View\ScrollPerformance.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Performance\TraderGridTest\View\TraderGridTest.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Printing\View\Printing.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Product ShowCase\ExcelLikeUi\View\ExcelLikeUI.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Scrolling\DeferredScrolling\View\DeferredScrolling.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\CopyToClipboard\View\CopyToClipboard.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\ExcelLikeSelection\View\ExcelLikeSelection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Selection\GridControlSelection\View\GridControlSelection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Serialization\GridSerialization\View\GridSerialization.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Zooming\View\Zooming.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Appearance\Tooltip\View\Tooltip.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\AdvancedDataTemplateCell\View\AdvancedDataTemplateCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\CustomDropDown\View\CustomDropDown.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\GaugeChart\View\GaugeChart.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\NestedGrid\View\NestedGrid.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Cell Types\TextImageCell\TextImageCell.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\FillSelection\Themes\Generic.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ExcelLikeFeature\SelectionMarker\View\SelectionMarker.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Grid Virtualization\VirtualGrid\View\VirtualGrid.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Import\ExcelImport\View\ExcelImport.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Performance\ScrollPerformance\View\ScrollPerformance.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Performance\TraderGridTest\View\TraderGridTest.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Printing\View\Printing.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Product ShowCase\ExcelLikeUi\View\ExcelLikeUI.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\Zooming\View\Zooming.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\refint\syncfusion.gridcontroldemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\syncfusion.gridcontroldemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\gridcontrol\obj_60\Debug\net6.0-windows\ref\syncfusion.gridcontroldemos.wpf.dll

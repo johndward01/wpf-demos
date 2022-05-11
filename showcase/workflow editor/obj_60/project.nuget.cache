@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwYLHBmpXE+LmkFNZH0/QBnlDWl6TmrO0XOS1Z1L//4HBXlhVaHkm2qVoB9Oxblyz8R4iGxEjqcWD9GXuJM8Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\workflow editor\\syncfusion.workfloweditor.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\20.1.0.47\\syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfcolorpalette.wpf\\20.1.0.47\\syncfusion.sfcolorpalette.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfdiagram.wpf\\20.1.0.47\\syncfusion.sfdiagram.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfradialmenu.wpf\\20.1.0.47\\syncfusion.sfradialmenu.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

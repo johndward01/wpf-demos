@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hfb3kMuFdekjW8OYTF2vU0Ro8LNFzorZVTbqJtpQo+5Og5s9dzifDodAY0p+fEHKkjW4DqdTsrVuk7lFtaYP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\audit showcase\\syncfusion.auditshowcase.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.pmml.wpf\\20.1.0.47\\syncfusion.pmml.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\20.1.0.47\\syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

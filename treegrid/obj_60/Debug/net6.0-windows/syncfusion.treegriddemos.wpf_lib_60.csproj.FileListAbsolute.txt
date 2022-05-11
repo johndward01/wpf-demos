@@ -1,0 +1,79 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\CellStyleDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\ConditionalFormatting.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\FrozenColumnsDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\LevelStylingDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\CellMerging.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\ColumnSizerDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\StackedHeaderDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Data Validation\DataValidationDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Editing and Selection\EditingDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Editing and Selection\SelectionDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Exporting\ExcelExportingDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Exporting\PDFExportingDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Filtering\ExcelLikeFilteringDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Filtering\FilteringDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\NestedCollection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\OnDemandLoading.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\SelfRelationalDataBinding.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\ContextMenuDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\DragAndDropDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Node CheckBox\CheckBoxSelection.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Node CheckBox\ConditionalCheckBox.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Printing\PrintingDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Show Case Demo\FileExplorer.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Sorting\CustomSorting.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Sorting\Sorting.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\CellStyleDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\ConditionalFormatting.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\FrozenColumnsDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Appearance\LevelStylingDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\CellMerging.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\ColumnSizerDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Column\StackedHeaderDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Data Validation\DataValidationDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Editing and Selection\EditingDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Editing and Selection\SelectionDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Exporting\ExcelExportingDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Exporting\PDFExportingDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Filtering\ExcelLikeFilteringDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Filtering\FilteringDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\NestedCollection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\OnDemandLoading.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Getting Started\SelfRelationalDataBinding.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\ContextMenuDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Interactive Features\DragAndDropDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Node CheckBox\CheckBoxSelection.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Node CheckBox\ConditionalCheckBox.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Printing\PrintingDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Show Case Demo\FileExplorer.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Sorting\CustomSorting.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\Views\Sorting\Sorting.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\refint\syncfusion.treegriddemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\syncfusion.treegriddemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\treegrid\obj_60\Debug\net6.0-windows\ref\syncfusion.treegriddemos.wpf.dll

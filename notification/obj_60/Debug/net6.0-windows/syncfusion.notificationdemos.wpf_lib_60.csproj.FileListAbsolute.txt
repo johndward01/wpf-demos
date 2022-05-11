@@ -1,0 +1,51 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\ShipmentTracking.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\Badge\GettingStarted\GettingStartedDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\Badge\Integrate with other Controls\IntegrateWithOtherControlsDemo.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\BusyIndicator\Views\BusyIndicator.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\BusyIndicator\Views\GettingStarted.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\HubTile\HubTileView.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\HubTile\WindowsTile.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\CircularProgressBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\LinearProgressBar.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\ShipmentTracking.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\StepProgressBarCustomization.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\PulsingTile\PulsingTileView.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\Badge\GettingStarted\GettingStartedDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\Badge\Integrate with other Controls\IntegrateWithOtherControlsDemo.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\BusyIndicator\Views\BusyIndicator.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\BusyIndicator\Views\GettingStarted.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\HubTile\HubTileView.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\HubTile\WindowsTile.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\CircularProgressBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\LinearProgressBar.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ProgressBar\StepProgressBarCustomization.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\PulsingTile\PulsingTileView.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\refint\syncfusion.notificationdemos.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\syncfusion.notificationdemos.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\notification\obj_60\Debug\net6.0-windows\ref\syncfusion.notificationdemos.wpf.dll

@@ -1,0 +1,18 @@
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\bin\Debug\net6.0-windows\Assets\PowerPoint Viewer\Template.pptx
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\bin\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.deps.json
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\bin\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\bin\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\Views\PowerPointViewer.g.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_MarkupCompile.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_MarkupCompile.lref
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\Views\PowerPointViewer.baml
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.g.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.Properties.Resources.resources
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\refint\syncfusion.powerpointviewer.wpf.dll
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\syncfusion.powerpointviewer.wpf.pdb
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\PowerPoint Viewer\obj_60\Debug\net6.0-windows\ref\syncfusion.powerpointviewer.wpf.dll

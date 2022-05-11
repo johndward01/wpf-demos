@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "VPwMcS/DCP+QhjKx+D+0rZmuuLPpmz2P19K34rHntfr6hTEBtzkU2YuX1hyMfe5s9zyREv+6ZCm1AU518S9DnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\visualstudio\\syncfusion.visualstudiodemo.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.data.wpf\\20.1.0.47\\syncfusion.data.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.edit.wpf\\20.1.0.47\\syncfusion.edit.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.grid.wpf\\20.1.0.47\\syncfusion.grid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.gridcommon.wpf\\20.1.0.47\\syncfusion.gridcommon.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.linq.base\\20.1.0.47\\syncfusion.linq.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.propertygrid.wpf\\20.1.0.47\\syncfusion.propertygrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfchromelesswindow.wpf\\20.1.0.47\\syncfusion.sfchromelesswindow.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfgrid.wpf\\20.1.0.47\\syncfusion.sfgrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfshared.wpf\\20.1.0.47\\syncfusion.sfshared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\20.1.0.47\\syncfusion.themes.office2019colorful.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

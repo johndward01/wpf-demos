@@ -1,0 +1,20 @@
+﻿syncfusion.expenseanalysis.wpf
+
+
+library
+C#
+.cs
+C:\Users\johnd\Desktop\repos3\wpf-demos\showcase\expense analysis tracker\obj_60\Debug\net6.0-windows\
+syncfusion.expenseanalysis.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+3283050608
+
+111825829776
+2181996903048
+ExpenseAnalysisDemo.xaml;Views\ChartView.xaml;Views\GridView.xaml;
+
+False
+

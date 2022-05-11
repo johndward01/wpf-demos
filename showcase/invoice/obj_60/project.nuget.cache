@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9IS5Q6JTso1cobPv4ww+ynokCNWpQpBZLa8H5JL5purPnyuUPn0WvvWnm6Q8w7a95yxcyH0E+9LOkp7fmWvBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\invoice\\syncfusion.invoice.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.compression.base\\20.1.0.47\\syncfusion.compression.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.docio.wpf\\20.1.0.47\\syncfusion.docio.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.excelcharttoimageconverter.wpf\\20.1.0.47\\syncfusion.excelcharttoimageconverter.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.exceltopdfconverter.wpf\\20.1.0.47\\syncfusion.exceltopdfconverter.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.officechart.base\\20.1.0.47\\syncfusion.officechart.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.pdf.wpf\\20.1.0.47\\syncfusion.pdf.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfgauge.wpf\\20.1.0.47\\syncfusion.sfgauge.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfmaps.wpf\\20.1.0.47\\syncfusion.sfmaps.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.xlsio.wpf\\20.1.0.47\\syncfusion.xlsio.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

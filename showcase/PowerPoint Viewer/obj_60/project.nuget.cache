@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLs3UaXWFzv9MqPNtJZdvVWPlnMmM68xH5FNpspEe3dQcekOdTcN8JnIflf9exGQoLuLtZf0tRHWnebmNWsaMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\repos3\\wpf-demos\\showcase\\PowerPoint Viewer\\syncfusion.powerpointviewer.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.compression.base\\20.1.0.47\\syncfusion.compression.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.officechart.base\\20.1.0.47\\syncfusion.officechart.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.pdf.wpf\\20.1.0.47\\syncfusion.pdf.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.presentation.wpf\\20.1.0.47\\syncfusion.presentation.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.presentationtopdfconverter.wpf\\20.1.0.47\\syncfusion.presentationtopdfconverter.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.sfchromelesswindow.wpf\\20.1.0.47\\syncfusion.sfchromelesswindow.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\johnd\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

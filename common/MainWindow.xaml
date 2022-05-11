@@ -10,8 +10,8 @@
     xmlns:shell="clr-namespace:Syncfusion.Windows;assembly=Syncfusion.Shared.WPF"
     xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
     xmlns:sys="clr-namespace:System;assembly=mscorlib"
-    Background="#FFFFFF"
-    BorderBrush="#E0E0E0"
+    Background="#161616"
+    BorderBrush="#222"
     CloseButtonTemplate="{DynamicResource MainWindowCloseButtonTemplate}"
     FocusVisualStyle="{x:Null}"
     MinWidth="1024"
@@ -23,8 +23,8 @@
     ShowTitle="False"
     ShowIcon="False"
     ShowMaximizeButton="False"
-    TitleBarBackground="#4134DE"
-    TitleBarForeground="#ffffff"
+    TitleBarBackground="#03506F"
+    TitleBarForeground="#BBBBBB"
     TitleBarHeight="56"
     TitleFontSize="24"
     WindowState="Maximized"
@@ -54,7 +54,7 @@
                     FontFamily="SegoeUI"
                     FontSize="18"
                     FontWeight="SemiBold"
-                    Foreground="#ffffff">
+                    Foreground="#fff">
                     WPF DEMOS
                 </Span>
                 <LineBreak FontSize="2" />
@@ -62,7 +62,7 @@
                     FontFamily="SegoeUI"
                     FontSize="14"
                     FontWeight="SemiBold"
-                    Foreground="#B3ffffff">
+                    Foreground="#fff">
                     2022  Vol 1
                 </Span>
             </TextBlock>
@@ -80,14 +80,14 @@
                 VerticalAlignment="Center"
                 AutoCompleteMode="Suggest"
                 AutoCompleteSource="{Binding ProductInfo}"
-                Background="#26ffffff"
+                Background="#111"
                 BorderThickness="0"
                 CaretBrush="{Binding ElementName=searchbox, Path=Foreground}"
-                DropDownBackground="White"
+                DropDownBackground="#111"
                 FocusVisualStyle="{x:Null}"
                 FontFamily="SegoeUI"
                 FontSize="12"
-                Foreground="White"
+                Foreground="#111"
                 MaxDropDownHeight="312"
                 SearchItemPath="SampleName"
                 SelectedItem="{Binding SearchItem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
@@ -134,7 +134,7 @@
                                 FontFamily="SegoeUI"
                                 FontSize="12"
                                 FontWeight="Normal"
-                                Foreground="Black"
+                                Foreground="#111"
                                 Text="{Binding ProductDemo.Product}" />
                             <Border
                                 Grid.Column="1"
